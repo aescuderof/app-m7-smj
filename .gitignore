@@ -1,0 +1,11 @@
+.env
+node_modules/
+
+# Frontend build artifacts
+app-m7/app-m7/node_modules/
+app-m7/app-m7/dist/
+app-m7/app-m7/.env
+
+# Misc editor/system files
+*.log
+*.DS_Store
