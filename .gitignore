@@ -9,3 +9,5 @@ app-m7/app-m7/.env
 # Misc editor/system files
 *.log
 *.DS_Store
+# Local Netlify folder
+.netlify
